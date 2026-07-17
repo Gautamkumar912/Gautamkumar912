@@ -21,3 +21,4 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gautamkumar912&" alt="Gautamkumar912" /></p> --> 
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gautamkumar912&show_icons=true&locale=en&layout=compact" alt="Gautamkumar912" /></p> -->
 <!-- <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gautamkumar912" alt="Gautamkumar912" /></a></p> -->
+<p><a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/ gautam-kumar912" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
